@@ -93,6 +93,10 @@ git pull
 git merge develop
 git push
 
+
+// Gabriel novos códigos
+git push -f origin develop
+
 ----------------------------------------------------------------------------------------------
 
 git flow init
