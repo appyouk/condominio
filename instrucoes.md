@@ -89,7 +89,7 @@ git push
 git pull
 
 // Atualizar a branch master, ou seja, leva os arquivos atualizados da develop para a master
-git checkout master
+
 git merge develop
 git push
 
