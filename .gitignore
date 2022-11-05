@@ -5,12 +5,7 @@
 /vendor
 .env
 .phpunit.result.cache
-Homestead.json
-Homestead.yaml
-npm-debug.log
-yarn-error.log
 .htaccess
 composer.phar
 composer.lock
-.DS_Store
 phpunit.phar
